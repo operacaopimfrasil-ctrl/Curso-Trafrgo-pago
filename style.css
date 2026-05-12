@@ -83,8 +83,8 @@ button { cursor: pointer; border: none; background: none; font-family: inherit; 
 }
 
 .text--red {
-  color: #FF3B3B;
-  text-shadow: 0 0 24px rgba(255,59,59,0.45);
+  color: #FF2D2D;
+  text-shadow: 0 0 20px rgba(255,45,45,0.7), 0 0 40px rgba(255,45,45,0.35), 0 0 80px rgba(255,45,45,0.15);
 }
 
 .section-label {
