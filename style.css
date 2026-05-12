@@ -1824,7 +1824,7 @@ button { cursor: pointer; border: none; background: none; font-family: inherit; 
     gap: 40px;
   }
 
-  .hero__mockup { order: -1; max-width: 600px; margin: 0 auto; }
+  .hero__mockup { order: 1; max-width: 600px; margin: 0 auto; }
 
   .hero__content { text-align: center; }
 
